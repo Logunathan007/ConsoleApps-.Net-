@@ -1,0 +1,15 @@
+D:\Logu\.NetApps\ConsoleAppsCheck\DependancyInjection\bin\Debug\net8.0\DependancyInjection.exe
+D:\Logu\.NetApps\ConsoleAppsCheck\DependancyInjection\bin\Debug\net8.0\DependancyInjection.deps.json
+D:\Logu\.NetApps\ConsoleAppsCheck\DependancyInjection\bin\Debug\net8.0\DependancyInjection.runtimeconfig.json
+D:\Logu\.NetApps\ConsoleAppsCheck\DependancyInjection\bin\Debug\net8.0\DependancyInjection.dll
+D:\Logu\.NetApps\ConsoleAppsCheck\DependancyInjection\bin\Debug\net8.0\DependancyInjection.pdb
+D:\Logu\.NetApps\ConsoleAppsCheck\DependancyInjection\obj\Debug\net8.0\DependancyInjection.GeneratedMSBuildEditorConfig.editorconfig
+D:\Logu\.NetApps\ConsoleAppsCheck\DependancyInjection\obj\Debug\net8.0\DependancyInjection.AssemblyInfoInputs.cache
+D:\Logu\.NetApps\ConsoleAppsCheck\DependancyInjection\obj\Debug\net8.0\DependancyInjection.AssemblyInfo.cs
+D:\Logu\.NetApps\ConsoleAppsCheck\DependancyInjection\obj\Debug\net8.0\DependancyInjection.csproj.CoreCompileInputs.cache
+D:\Logu\.NetApps\ConsoleAppsCheck\DependancyInjection\obj\Debug\net8.0\DependancyInjection.sourcelink.json
+D:\Logu\.NetApps\ConsoleAppsCheck\DependancyInjection\obj\Debug\net8.0\DependancyInjection.dll
+D:\Logu\.NetApps\ConsoleAppsCheck\DependancyInjection\obj\Debug\net8.0\refint\DependancyInjection.dll
+D:\Logu\.NetApps\ConsoleAppsCheck\DependancyInjection\obj\Debug\net8.0\DependancyInjection.pdb
+D:\Logu\.NetApps\ConsoleAppsCheck\DependancyInjection\obj\Debug\net8.0\DependancyInjection.genruntimeconfig.cache
+D:\Logu\.NetApps\ConsoleAppsCheck\DependancyInjection\obj\Debug\net8.0\ref\DependancyInjection.dll

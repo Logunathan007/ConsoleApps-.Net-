@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Logu\\.NetApps\\CollectionCheck\\ArrayListCheck\\Array Methods.csproj",
+      "projectUniqueName": "D:\\Logu\\.NetApps\\ConsoleAppsCheck\\ArrayListCheck\\Array Methods.csproj",
       "projectName": "Array Methods",
-      "projectPath": "D:\\Logu\\.NetApps\\CollectionCheck\\ArrayListCheck\\Array Methods.csproj",
+      "projectPath": "D:\\Logu\\.NetApps\\ConsoleAppsCheck\\ArrayListCheck\\Array Methods.csproj",
       "packagesPath": "C:\\Users\\IDSS-05\\.nuget\\packages\\",
-      "outputPath": "D:\\Logu\\.NetApps\\CollectionCheck\\ArrayListCheck\\obj\\",
+      "outputPath": "D:\\Logu\\.NetApps\\ConsoleAppsCheck\\ArrayListCheck\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

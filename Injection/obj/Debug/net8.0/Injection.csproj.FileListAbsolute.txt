@@ -1,0 +1,15 @@
+D:\Logu\.NetApps\ConsoleAppsCheck\Injection\bin\Debug\net8.0\Injection.exe
+D:\Logu\.NetApps\ConsoleAppsCheck\Injection\bin\Debug\net8.0\Injection.deps.json
+D:\Logu\.NetApps\ConsoleAppsCheck\Injection\bin\Debug\net8.0\Injection.runtimeconfig.json
+D:\Logu\.NetApps\ConsoleAppsCheck\Injection\bin\Debug\net8.0\Injection.dll
+D:\Logu\.NetApps\ConsoleAppsCheck\Injection\bin\Debug\net8.0\Injection.pdb
+D:\Logu\.NetApps\ConsoleAppsCheck\Injection\obj\Debug\net8.0\Injection.GeneratedMSBuildEditorConfig.editorconfig
+D:\Logu\.NetApps\ConsoleAppsCheck\Injection\obj\Debug\net8.0\Injection.AssemblyInfoInputs.cache
+D:\Logu\.NetApps\ConsoleAppsCheck\Injection\obj\Debug\net8.0\Injection.AssemblyInfo.cs
+D:\Logu\.NetApps\ConsoleAppsCheck\Injection\obj\Debug\net8.0\Injection.csproj.CoreCompileInputs.cache
+D:\Logu\.NetApps\ConsoleAppsCheck\Injection\obj\Debug\net8.0\Injection.sourcelink.json
+D:\Logu\.NetApps\ConsoleAppsCheck\Injection\obj\Debug\net8.0\Injection.dll
+D:\Logu\.NetApps\ConsoleAppsCheck\Injection\obj\Debug\net8.0\refint\Injection.dll
+D:\Logu\.NetApps\ConsoleAppsCheck\Injection\obj\Debug\net8.0\Injection.pdb
+D:\Logu\.NetApps\ConsoleAppsCheck\Injection\obj\Debug\net8.0\Injection.genruntimeconfig.cache
+D:\Logu\.NetApps\ConsoleAppsCheck\Injection\obj\Debug\net8.0\ref\Injection.dll

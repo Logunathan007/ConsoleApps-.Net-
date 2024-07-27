@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayList Method", "ArrayLi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "List", "List\List.csproj", "{55C4FBD1-12FA-4683-A3B6-25317525DEAB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Injection", "Injection\Injection.csproj", "{17A26E2D-8639-437B-9F6B-BDE543546A8B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{55C4FBD1-12FA-4683-A3B6-25317525DEAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55C4FBD1-12FA-4683-A3B6-25317525DEAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55C4FBD1-12FA-4683-A3B6-25317525DEAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17A26E2D-8639-437B-9F6B-BDE543546A8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17A26E2D-8639-437B-9F6B-BDE543546A8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17A26E2D-8639-437B-9F6B-BDE543546A8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17A26E2D-8639-437B-9F6B-BDE543546A8B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

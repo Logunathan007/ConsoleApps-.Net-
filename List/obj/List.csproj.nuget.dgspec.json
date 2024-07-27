@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Logu\\.NetApps\\CollectionCheck\\List\\List.csproj": {}
+    "D:\\Logu\\.NetApps\\ConsoleAppsCheck\\List\\List.csproj": {}
   },
   "projects": {
-    "D:\\Logu\\.NetApps\\CollectionCheck\\List\\List.csproj": {
+    "D:\\Logu\\.NetApps\\ConsoleAppsCheck\\List\\List.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Logu\\.NetApps\\CollectionCheck\\List\\List.csproj",
+        "projectUniqueName": "D:\\Logu\\.NetApps\\ConsoleAppsCheck\\List\\List.csproj",
         "projectName": "List",
-        "projectPath": "D:\\Logu\\.NetApps\\CollectionCheck\\List\\List.csproj",
+        "projectPath": "D:\\Logu\\.NetApps\\ConsoleAppsCheck\\List\\List.csproj",
         "packagesPath": "C:\\Users\\IDSS-05\\.nuget\\packages\\",
-        "outputPath": "D:\\Logu\\.NetApps\\CollectionCheck\\List\\obj\\",
+        "outputPath": "D:\\Logu\\.NetApps\\ConsoleAppsCheck\\List\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
