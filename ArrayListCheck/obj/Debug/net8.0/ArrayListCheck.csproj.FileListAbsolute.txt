@@ -1,0 +1,14 @@
+D:\Logu\.NetApps\CollectionCheck\ArrayListCheck\obj\Debug\net8.0\ArrayListCheck.GeneratedMSBuildEditorConfig.editorconfig
+D:\Logu\.NetApps\CollectionCheck\ArrayListCheck\obj\Debug\net8.0\ArrayListCheck.AssemblyInfoInputs.cache
+D:\Logu\.NetApps\CollectionCheck\ArrayListCheck\obj\Debug\net8.0\ArrayListCheck.AssemblyInfo.cs
+D:\Logu\.NetApps\CollectionCheck\ArrayListCheck\obj\Debug\net8.0\ArrayListCheck.csproj.CoreCompileInputs.cache
+D:\Logu\.NetApps\CollectionCheck\ArrayListCheck\bin\Debug\net8.0\ArrayListCheck.exe
+D:\Logu\.NetApps\CollectionCheck\ArrayListCheck\bin\Debug\net8.0\ArrayListCheck.deps.json
+D:\Logu\.NetApps\CollectionCheck\ArrayListCheck\bin\Debug\net8.0\ArrayListCheck.runtimeconfig.json
+D:\Logu\.NetApps\CollectionCheck\ArrayListCheck\bin\Debug\net8.0\ArrayListCheck.dll
+D:\Logu\.NetApps\CollectionCheck\ArrayListCheck\bin\Debug\net8.0\ArrayListCheck.pdb
+D:\Logu\.NetApps\CollectionCheck\ArrayListCheck\obj\Debug\net8.0\ArrayListCheck.dll
+D:\Logu\.NetApps\CollectionCheck\ArrayListCheck\obj\Debug\net8.0\refint\ArrayListCheck.dll
+D:\Logu\.NetApps\CollectionCheck\ArrayListCheck\obj\Debug\net8.0\ArrayListCheck.pdb
+D:\Logu\.NetApps\CollectionCheck\ArrayListCheck\obj\Debug\net8.0\ArrayListCheck.genruntimeconfig.cache
+D:\Logu\.NetApps\CollectionCheck\ArrayListCheck\obj\Debug\net8.0\ref\ArrayListCheck.dll

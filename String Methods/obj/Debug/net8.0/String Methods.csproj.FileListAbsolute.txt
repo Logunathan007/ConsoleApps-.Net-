@@ -1,0 +1,14 @@
+D:\Logu\.NetApps\CollectionCheck\String Methods\bin\Debug\net8.0\String Methods.exe
+D:\Logu\.NetApps\CollectionCheck\String Methods\bin\Debug\net8.0\String Methods.deps.json
+D:\Logu\.NetApps\CollectionCheck\String Methods\bin\Debug\net8.0\String Methods.runtimeconfig.json
+D:\Logu\.NetApps\CollectionCheck\String Methods\bin\Debug\net8.0\String Methods.dll
+D:\Logu\.NetApps\CollectionCheck\String Methods\bin\Debug\net8.0\String Methods.pdb
+D:\Logu\.NetApps\CollectionCheck\String Methods\obj\Debug\net8.0\String Methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Logu\.NetApps\CollectionCheck\String Methods\obj\Debug\net8.0\String Methods.AssemblyInfoInputs.cache
+D:\Logu\.NetApps\CollectionCheck\String Methods\obj\Debug\net8.0\String Methods.AssemblyInfo.cs
+D:\Logu\.NetApps\CollectionCheck\String Methods\obj\Debug\net8.0\String Methods.csproj.CoreCompileInputs.cache
+D:\Logu\.NetApps\CollectionCheck\String Methods\obj\Debug\net8.0\String Methods.dll
+D:\Logu\.NetApps\CollectionCheck\String Methods\obj\Debug\net8.0\refint\String Methods.dll
+D:\Logu\.NetApps\CollectionCheck\String Methods\obj\Debug\net8.0\String Methods.pdb
+D:\Logu\.NetApps\CollectionCheck\String Methods\obj\Debug\net8.0\String Methods.genruntimeconfig.cache
+D:\Logu\.NetApps\CollectionCheck\String Methods\obj\Debug\net8.0\ref\String Methods.dll

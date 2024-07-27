@@ -1,0 +1,14 @@
+D:\Logu\.NetApps\CollectionCheck\ArrayList Method\bin\Debug\net8.0\ArrayList Method.exe
+D:\Logu\.NetApps\CollectionCheck\ArrayList Method\bin\Debug\net8.0\ArrayList Method.deps.json
+D:\Logu\.NetApps\CollectionCheck\ArrayList Method\bin\Debug\net8.0\ArrayList Method.runtimeconfig.json
+D:\Logu\.NetApps\CollectionCheck\ArrayList Method\bin\Debug\net8.0\ArrayList Method.dll
+D:\Logu\.NetApps\CollectionCheck\ArrayList Method\bin\Debug\net8.0\ArrayList Method.pdb
+D:\Logu\.NetApps\CollectionCheck\ArrayList Method\obj\Debug\net8.0\ArrayList Method.GeneratedMSBuildEditorConfig.editorconfig
+D:\Logu\.NetApps\CollectionCheck\ArrayList Method\obj\Debug\net8.0\ArrayList Method.AssemblyInfoInputs.cache
+D:\Logu\.NetApps\CollectionCheck\ArrayList Method\obj\Debug\net8.0\ArrayList Method.AssemblyInfo.cs
+D:\Logu\.NetApps\CollectionCheck\ArrayList Method\obj\Debug\net8.0\ArrayList Method.csproj.CoreCompileInputs.cache
+D:\Logu\.NetApps\CollectionCheck\ArrayList Method\obj\Debug\net8.0\ArrayList Method.dll
+D:\Logu\.NetApps\CollectionCheck\ArrayList Method\obj\Debug\net8.0\refint\ArrayList Method.dll
+D:\Logu\.NetApps\CollectionCheck\ArrayList Method\obj\Debug\net8.0\ArrayList Method.pdb
+D:\Logu\.NetApps\CollectionCheck\ArrayList Method\obj\Debug\net8.0\ArrayList Method.genruntimeconfig.cache
+D:\Logu\.NetApps\CollectionCheck\ArrayList Method\obj\Debug\net8.0\ref\ArrayList Method.dll
