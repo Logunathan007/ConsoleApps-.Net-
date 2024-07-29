@@ -1,0 +1,6 @@
+@AutoMapperCheckInWEBApi_HostAddress = http://localhost:5100
+
+GET {{AutoMapperCheckInWEBApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
