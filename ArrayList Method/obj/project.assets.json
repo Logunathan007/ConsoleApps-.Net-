@@ -8,19 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+    "C:\\Users\\IDSS-05\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Logu\\.Net\\ConsoleApps-.Net-\\ArrayList Method\\ArrayList Method.csproj",
+      "projectUniqueName": "D:\\Logu\\.NetApps\\ConsoleAppsCheck\\ArrayList Method\\ArrayList Method.csproj",
       "projectName": "ArrayList Method",
-      "projectPath": "D:\\Logu\\.Net\\ConsoleApps-.Net-\\ArrayList Method\\ArrayList Method.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Logu\\.Net\\ConsoleApps-.Net-\\ArrayList Method\\obj\\",
+      "projectPath": "D:\\Logu\\.NetApps\\ConsoleAppsCheck\\ArrayList Method\\ArrayList Method.csproj",
+      "packagesPath": "C:\\Users\\IDSS-05\\.nuget\\packages\\",
+      "outputPath": "D:\\Logu\\.NetApps\\ConsoleAppsCheck\\ArrayList Method\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\IDSS-05\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
